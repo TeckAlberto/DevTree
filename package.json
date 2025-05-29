@@ -1,0 +1,16 @@
+{
+  "name": "devtree",
+  "version": "1.0.0",
+  "description": "A project wit Express and Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jesus Alberto Gutierrez Lizaola",
+  "license": "ISC",
+  "packageManager": "pnpm@10.7.0",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
