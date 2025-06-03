@@ -8,6 +8,7 @@ connectDB();
 
 // Read form's data
 server.use(express.json());
+
 server.use('/', router);
 
 export default server

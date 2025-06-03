@@ -2,9 +2,9 @@ import mongoose, { Schema } from "mongoose";
 
 export interface IUser {
     handle: string
-    name: String
-    email: String
-    password: String
+    name: string
+    email: string
+    password: string
 }
 
 const userSchema = new Schema({
